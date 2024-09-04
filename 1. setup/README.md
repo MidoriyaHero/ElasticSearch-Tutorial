@@ -35,7 +35,7 @@ cd /path-to-your-extract-kibana/kibana-8.15.0
 ## Step 3:
 After that, open your browser and go to http://localhost:5601/ (kibana) and paste the token you got from elasticsearch.
 
-## That all you need to do to setup elasticsearch and kibana, let's go to the next one [(add index, docs, search by dev tools on kibana)](2.%20Create%20index,%20docs,%20search/README.md)
+## That all you need to do to setup elasticsearch and kibana, let's go to the next one [(add index, docs, search by dev tools on kibana)](../2.%20Create%20index%2C%20docs%2C%20search/README.md)
 
 ## NOTE: TO handle the error: failed to determine the health of the cluster
 GO to ./elasticsearch-8.15.0/config/elasticsearch.yml and change the following line:
